@@ -22,7 +22,7 @@ If you wish to run the tutorial, you can use the following command after install
 docker run -d -p 80:80 docker/getting-started
 ```
 
-Once it has started, you can open your browser to [http://localhost](http://localhost).
+Once it has started, you can open your browser to [http://localhost:8080](http://localhost:8080).
 
 ## Development
 
